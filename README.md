@@ -1,7 +1,7 @@
 <h1 align = "center"> Movie Api🎞️</h1> 
 
-<p> This API is specifically designed to allow users to collect and organize notes about films of interest to them. Users can add, delete notes and associate tags for better categorization.</p>
+<h2>📁 Project </h2>
+<p> Application in Node.js where the user registers a film, fills in some information (name, description, rating) and creates tags related to it.</p>
 
-
-
-![movie_api](https://github.com/leonardomenezes7/movies_api/assets/145611761/566131a1-0cff-4d8f-ad92-2c49865b868f)
+<h2>➡️ Structure </h2>
+![movie_api](https://github.com/leonardomenezes7/movies_api/assets/145611761/11c6452e-c198-4e17-959d-15eeb4a77a3a)
