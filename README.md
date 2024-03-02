@@ -13,7 +13,7 @@
 - SQL
 - knex.js
 
-## Features
+## 󠀻󠀻󠀻󠀻󠀻󠀻Features
 - CRUD
 - Encrypted password
 - Database
@@ -22,4 +22,4 @@
 - Project Architecture
 
 
-<p>Developed by me👋 ![Follow me in LinkedIn]</p>
+<p>Developed by Leonardo Menezes👋</p>
